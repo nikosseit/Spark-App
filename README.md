@@ -33,4 +33,5 @@ This project is a scalable ETL (Extract, Transform, Load) pipeline built using A
 - Python 3.x
 - Apache Spark
 - SQLite or a compatible database
-- Required Python libraries (listed in `requirements.txt`)
+- pip install pyspark==3.4.1 sqlite3 pandas==1.5.3 pyodbc==4.0.35
+
